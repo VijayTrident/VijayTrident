@@ -33,7 +33,7 @@ Here are some of my notable projects:
 
 ## 📊 GitHub Stats
 ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VijayTrident&show_icons=true&theme=radical)  
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VijayTrident&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VijayTrident&show_icons=true&theme=tokyonight&hide_border=true&count_public=true&include_all_commits=true)
 
 ## 🛠️ Tech Stack
 
