@@ -10,7 +10,7 @@
 - 🛠 **Backend**: Node.js, Express.js, REST APIs  
 - 🗄️ **Database**: MongoDB, PostgreSQL, MySQL  
 - ⚙️ **Tools & Platforms**: Git, Docker, VS Code, Postman  
-- 🧪 **Testing**: Jest, Supertest
+- 🧪 **Testing**: Jest, React Testing
 
 ---
 
