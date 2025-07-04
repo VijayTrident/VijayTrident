@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Vijay
 ✅ Full Stack Developer committed to clean, efficient, and user-centric design
-💻 Currently working on Next.js & Node.js projects.
 
 ## 🛠 Tech Stack
+  💻 Currently working on Next.js & Node.js projects.
 - 🌐 Frontend: React, Next.js, Tailwind CSS
 - 🛠 Backend: Node.js, Express
 - 🗄️ Database: MongoDB, PostgreSQL
