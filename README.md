@@ -1,6 +1,15 @@
-## 🚀 Achievements
+👋 Hi, I'm Vijay
+✅ Full Stack Developer committed to clean, efficient, and user-centric design
+💻 Currently working on Next.js & Node.js projects.
 
-- 🌟 Created and maintained [CAT Test Result Service](https://github.com/org/repo)
-- ✅ Contributed to open-source projects like XYZ
-- 🏆 Built internal tools adopted by 3+ teams
-- 🎓 Completed Node.js & TypeScript Mastery course
+## 🛠 Tech Stack
+- 🌐 Frontend: React, Next.js, Tailwind CSS
+- 🛠 Backend: Node.js, Express
+- 🗄️ Database: MongoDB, PostgreSQL
+- ⚙️ Tools: Git, Docker, VS Code
+
+## 📊 GitHub Stats
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VijayTrident&show_icons=true&theme=radical)
+
+## 📫 Let’s Connect
+[LinkedIn](https://linkedin.com/in/yourname) | [Email](mailto:vijay.babu@tridentsqa.com)
