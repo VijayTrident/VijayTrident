@@ -1,28 +1,28 @@
-# 👋 Hi, I'm Vijay 🚀
+# 👋 Hi, I'm Vijay 
 🎯 **Full Stack Developer** | Passionate about clean, efficient, and user‑centric design  
 💻 Currently building scalable web apps with **Next.js** & **Node.js**
 
 ---
 
 ## 🛠 Tech Stack 💻
-✨ **Frontend**:  
+ **Frontend**:  
 🌐 React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+), Redux, Material-UI, Bootstrap, Sass, jQuery, Chart.js  
 
-⚙️ **Backend**:  
+ **Backend**:  
 🌱 Node.js, Express.js, REST APIs  
 
-🗄️ **Databases**:  
+ **Databases**:  
 🍃 MongoDB, 🐘 PostgreSQL, 🐬 MySQL  
 
-🛠 **Tools & Platforms**:  
+ **Tools & Platforms**:  
 🐙 Git, 🐳 Docker, 🖋️ VS Code, 📬 Postman  
 
-🧪 **Testing**:  
-✅ Jest, 🧪 React Testing Library  
+ **Testing**:  
+ Jest, 🧪 React Testing Library  
 
 ---
 
-## 🚀 Notable Projects
+## Notable Projects
 Here are some of my key contributions:  
 
 - ✈️ [**CAT - Continuous Automated Testing**](https://cat.stg.allegiantair.com/)  
