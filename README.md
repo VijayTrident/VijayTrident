@@ -10,28 +10,33 @@
 - 🛠 **Backend**: Node.js, Express.js, REST APIs  
 - 🗄️ **Database**: MongoDB, PostgreSQL, MySQL  
 - ⚙️ **Tools & Platforms**: Git, Docker, VS Code, Postman  
-- 🧪 **Testing**: Jest, Supertest  
-- ☁️ **Cloud**: AWS (basics), Vercel  
+- 🧪 **Testing**: Jest, Supertest
 
 ---
 
 ## 🚀 Projects
 Here are some of my notable projects:  
 
-- 🔗 [**CAT - Test Results Service**](https://github.com/VijayTrident/CAT_Backend)  
-  Microservice for managing test results with Redis streams, JWT authentication, and scalable API architecture.  
+- 🔗 [**CAT - Continuous Automated Testing**](https://cat.stg.allegiantair.com/)  
+  🛠 Description: CAT retrieves results from Jenkins, manages jobs, and allows triggering builds directly. Designed with Redis Streams, JWT authentication, and a scalable API architecture.
 
-- 🔗 [**MFU Project**](https://github.com/VijayTrident/MFU_Frontend)  
-  Admin dashboard with version and API management, built using Next.js, RTK Query, and Zod validations.  
+- 🔗 [**MFU - Mutual Fund Utility**](https://apidocs.mfuindia.com/)  
+  🛠 Description: Admin dashboard with version and API management, allowing consumers to integrate APIs effortlessly. Developed with Next.js, RTK Query, and Zod validations.
 
-- 🔗 **Chess Game** (Private Repo)  
-  Developed a full-featured online chess game with real-time multiplayer using Socket.IO.  
+- 🔗[**NCPro - Non Confirmation**](https://www.ncpro.gbinternational.sg/)
+  🛠 Description: Enterprise-grade non-confirmation management platform with advanced data processing and API integration.
+
+- 🔗[**SCC - Signature Chess Club**](https://scc-scms.com/)
+  🛠 Description: Developed a maintainable system to manage students, track their schedules, and handle attendance efficiently.
 
 ---
 
 ## 📊 GitHub Stats
 ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VijayTrident&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VijayTrident&layout=compact&theme=radical)  
+![Top Languages]
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
@@ -46,7 +51,7 @@ Here are some of my notable projects:
 ## 📫 Let’s Connect
 - [🌐 LinkedIn](https://linkedin.com/in/yourname)  
 - 📧 Email: [vijay.babu@tridentsqa.com](mailto:vijay.babu@tridentsqa.com)  
-- 📝 [Portfolio](https://your-portfolio-link.com) *(optional)*  
+- 📝 [Portfolio](https://your-portfolio-link.com) 
 
 ---
 
