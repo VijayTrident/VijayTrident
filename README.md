@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Vijay  
-✅ Full Stack Developer committed to clean, efficient, and user-centric design.  
+🎯 Full Stack Developer committed to clean, efficient, and user-centric design.  
 
 ---
 
