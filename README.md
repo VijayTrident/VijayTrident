@@ -42,7 +42,11 @@ Here are some of my key contributions:
 ## 📊 GitHub Stats
 ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VijayTrident&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)  
 
-![Top Languages](https://fake-top-langs.vercel.app/VijayTrident?js=85&html=80&css=95)
+## 📊 Top Languages
+
+🟨 **JavaScript**: ████████████████████░░ 85%  
+🟥 **HTML**      : ███████████████████░░░ 80%  
+🟦 **CSS**       : █████████████████████░ 95%
 
 ---
 
