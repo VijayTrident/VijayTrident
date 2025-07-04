@@ -88,7 +88,3 @@ Here are some of my notable projects:
 
 ---
 
-## ✨ Fun Facts
-- 🌱 I’m currently exploring advanced Node.js and system design.  
-- ✍️ I write technical blogs monthly to share my knowledge.  
-
