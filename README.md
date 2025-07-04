@@ -53,7 +53,6 @@ Here are some of my notable projects:
 ## 📫 Let’s Connect
 - [🌐 LinkedIn](https://linkedin.com/in/yourname)  
 - 📧 Email: [vijay.babu@tridentsqa.com](mailto:vijay.babu@tridentsqa.com)  
-- 📝 [Portfolio](https://your-portfolio-link.com) 
 
 ---
 
