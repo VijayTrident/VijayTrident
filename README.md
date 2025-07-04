@@ -1,40 +1,60 @@
-## 👋 Hi, I'm Vijay  
-🎯 Full Stack Developer committed to clean, efficient, and user-centric design.  
+# 👋 Hi, I'm Vijay 🚀
+🎯 **Full Stack Developer** | Passionate about clean, efficient, and user‑centric design  
+💻 Currently building scalable web apps with **Next.js** & **Node.js**
 
 ---
 
-## 🛠 Tech Stack
-💻 Currently working on Next.js & Node.js projects.  
+## 🛠 Tech Stack 💻
+✨ **Frontend**:  
+🌐 React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+), Redux, Material-UI, Bootstrap, Sass, jQuery, Chart.js  
 
-- 🌐 **Frontend**: React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)  
-- 🛠 **Backend**: Node.js, Express.js, REST APIs  
-- 🗄️ **Database**: MongoDB, PostgreSQL, MySQL  
-- ⚙️ **Tools & Platforms**: Git, Docker, VS Code, Postman  
-- 🧪 **Testing**: Jest, React Testing
+⚙️ **Backend**:  
+🌱 Node.js, Express.js, REST APIs  
+
+🗄️ **Databases**:  
+🍃 MongoDB, 🐘 PostgreSQL, 🐬 MySQL  
+
+🛠 **Tools & Platforms**:  
+🐙 Git, 🐳 Docker, 🖋️ VS Code, 📬 Postman  
+
+🧪 **Testing**:  
+✅ Jest, 🧪 React Testing Library  
 
 ---
 
-## 🚀 Projects
-Here are some of my notable projects:  
+## 🚀 Notable Projects
+Here are some of my key contributions:  
 
-- 🔗 [**CAT - Continuous Automated Testing**](https://cat.stg.allegiantair.com/)  
-  🛠 Description: CAT retrieves results from Jenkins, manages jobs, and allows triggering builds directly. Designed with Redis Streams, JWT authentication, and a scalable API architecture.
+- ✈️ [**CAT - Continuous Automated Testing**](https://cat.stg.allegiantair.com/)  
+  🛠 *CAT retrieves results from Jenkins, manages jobs, and allows triggering builds directly. Designed with Redis Streams, JWT authentication, and a scalable API architecture.*  
 
-- 🔗 [**MFU - Mutual Fund Utility**](https://apidocs.mfuindia.com/)  
-  🛠 Description: Admin dashboard with version and API management, allowing consumers to integrate APIs effortlessly. Developed with Next.js, RTK Query, and Zod validations.
+- 💸 [**MFU - Mutual Fund Utility**](https://apidocs.mfuindia.com/)  
+  🛠 *Admin dashboard for API & version management. Consumers can integrate APIs effortlessly. Built using Next.js, RTK Query, and Zod validations.*  
 
-- 🔗[**NCPro - Non Confirmation**](https://www.ncpro.gbinternational.sg/)
-  🛠 Description: Enterprise-grade non-confirmation management platform with advanced data processing and API integration.
+- 🏢 [**NCPro - Non Confirmation**](https://www.ncpro.gbinternational.sg/)  
+  🛠 *Enterprise-grade non-confirmation management platform with advanced data processing and API workflows.*  
 
-- 🔗[**SCC - Signature Chess Club**](https://scc-scms.com/)
-  🛠 Description: Developed a maintainable system to manage students, track their schedules, and handle attendance efficiently.
+- ♟️ [**SCC - Signature Chess Club**](https://scc-scms.com/)  
+  🛠 *Built a maintainable system to manage students, track schedules, and handle attendance efficiently.*  
 
 ---
 
 ## 📊 GitHub Stats
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VijayTrident&show_icons=true&theme=radical&hide_border=true&count_public=true&include_all_commits=true)
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VijayTrident&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)  
 
-## 🛠️ Tech Stack
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VijayTrident&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🏆 Achievements 🥇
+✅ Contributed to **enterprise-grade applications** with scalable and maintainable architectures.  
+🎓 Conducted **workshops for interns** on JavaScript and CSS, strengthening their fundamentals.  
+🎤 Presented sessions on **Unit Testing** & **IntersectionObserver API** for development teams.  
+📝 Passionate about writing **technical blogs** on modern web development every month.  
+
+---
+
+## 🛠 Badges  
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -74,17 +94,6 @@ Here are some of my notable projects:
 
 ---
 
-## 🏆 Achievements
- - Contributed to enterprise-grade applications with scalable and maintainable architectures.
- - Conducted workshops for intern students on JavaScript and CSS, helping them strengthen their fundamentals.
- - Presented technical sessions on Unit Testing and the IntersectionObserver API for the development team.
- - Passionate about sharing knowledge through monthly technical blogs on modern web development topics.
-
----
-
-## 📫 Let’s Connect
-- [🌐 LinkedIn](https://linkedin.com/in/yourname)  
-- 📧 Email: [vijay.babu@tridentsqa.com](mailto:vijay.babu@tridentsqa.com)  
-
----
-
+## 📫 Let’s Connect 🤝
+🌐 [**LinkedIn**](https://linkedin.com/in/yourname)  
+📧 **Email**: [vijay.babu@tridentsqa.com](mailto:vijay.babu@tridentsqa.com)  
