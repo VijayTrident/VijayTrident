@@ -1,4 +1,4 @@
-👋 Hi, I'm Vijay
+## 👋 Hi, I'm Vijay
 ✅ Full Stack Developer committed to clean, efficient, and user-centric design
 💻 Currently working on Next.js & Node.js projects.
 
