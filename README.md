@@ -75,10 +75,10 @@ Here are some of my notable projects:
 ---
 
 ## 🏆 Achievements
-  Contributed to enterprise-grade applications with scalable and maintainable architectures.
-  Conducted workshops for intern students on JavaScript and CSS, helping them strengthen their fundamentals.
-  Presented technical sessions on Unit Testing and the IntersectionObserver API for the development team.
-  Passionate about sharing knowledge through monthly technical blogs on modern web development topics.
+ - Contributed to enterprise-grade applications with scalable and maintainable architectures.
+ - Conducted workshops for intern students on JavaScript and CSS, helping them strengthen their fundamentals.
+ - Presented technical sessions on Unit Testing and the IntersectionObserver API for the development team.
+ - Passionate about sharing knowledge through monthly technical blogs on modern web development topics.
 
 ---
 
