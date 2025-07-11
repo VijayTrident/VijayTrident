@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vijay 
-🎯 **Full Stack Developer** | Passionate about clean, efficient, and user‑centric design  
+🎯 **MERN stack Web Developer** | Passionate about clean, efficient, and user‑centric design  
 💻 Currently building scalable web apps with **Next.js** & **Node.js**
 
 ---
